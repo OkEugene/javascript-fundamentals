@@ -7,3 +7,8 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
+
+let a = 3;
+let b = 7;
+let multiply = a * b;
+console.log(multiply);
